@@ -14,6 +14,7 @@ public class TestCoordinates {
         testImmutability();
         testDifferentInstances();
         testEdgeCases();
+        testFactory();
         
         // Résumé
         System.out.println("\n=== Results ===");
@@ -27,6 +28,26 @@ public class TestCoordinates {
             System.out.println("\n⚠️ Some tests failed.");
             System.exit(1);
         }
+    }
+
+    public static void testFactory() {
+        System.out.println("Test: CoordinatesFactory");
+        testsRun++;
+        
+        try {
+            Coordinates coord = CoordinatesFactory.createCoordinates(10, 20, 30);
+            if (coord != null && coord.getLongitude() == 10 && coord.getLatitude() == 20 && coord.getHeight() == 30) {
+                testsPassed++;
+                System.out.println("  ✅ Factory method works");
+            } else {
+                testsFailed++;
+                System.out.println("  ❌ Factory method returned incorrect values");
+            }
+        } catch (Exception e) {
+            testsFailed++;
+            System.out.println("  ❌ Exception: " + e.getMessage());
+        }
+        System.out.println();
     }
     
     // Test du constructeur

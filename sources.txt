@@ -1,2 +1,3 @@
 src/avaj/coordinates/Coordinates.java
+src/avaj/coordinates/CoordinatesFactory.java
 src/avaj/coordinates/TestCoordinates.java
