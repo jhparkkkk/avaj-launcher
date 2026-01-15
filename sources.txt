@@ -1,3 +1,8 @@
+src/avaj/aircraft/Aircraft.java
+src/avaj/aircraft/Flyable.java
+src/avaj/aircraft/Helicopter.java
 src/avaj/coordinates/Coordinates.java
 src/avaj/coordinates/CoordinatesFactory.java
 src/avaj/coordinates/TestCoordinates.java
+src/avaj/simulator/Simulator.java
+src/avaj/weather/WeatherProvider.java
