@@ -6,9 +6,7 @@ public final class WeatherProvider {
     private static final WeatherProvider INSTANCE = new WeatherProvider();
     private String[] weather = {"SUN", "RAIN", "FOG", "SNOW"};
 
-    private WeatherProvider() {
-        System.out.println("WeatherProvider created.");
-    }
+    private WeatherProvider() {}
 
     public static WeatherProvider getProvider() {
         return INSTANCE;

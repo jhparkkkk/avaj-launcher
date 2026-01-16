@@ -19,19 +19,19 @@ public class Helicopter extends Aircraft {
             case "SUN":
                 longitude += 10;
                 height += 2;
-                message += ": Let's enjoy the good weather and take some pics.";
+                message += ": This is hot.";
                 break;
             case "RAIN":
                 longitude += 5;
-                message += ": It's raining. Better watch out for lightning.";
+                message += ": This is wet.";
                 break;
             case "FOG":
                 longitude += 1;
-                message += ": Can't see much through this fog.";
+                message += ": This is foggy.";
                 break;
             case "SNOW":
                 height -= 12;
-                message += ": It's snowing. We're gonna need some serious insulation.";
+                message += ": This is snowy.";
                 break;
             default:
                 break;

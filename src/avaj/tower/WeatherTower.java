@@ -8,9 +8,7 @@ public class WeatherTower extends Tower {
         return weather;
     }
 
-    public WeatherTower() {
-        System.out.println("WeatherTower created.");
-    }
+    public WeatherTower() {}
 
     public void changeWeather() {
         this.conditionsChanged();

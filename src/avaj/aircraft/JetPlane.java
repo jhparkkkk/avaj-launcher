@@ -19,19 +19,19 @@ public class JetPlane extends Aircraft {
             case "SUN":
                 latitude += 10;
                 height += 5;
-                message += ": Let's enjoy the good weather and take some pics.";
+                message += ": Oh no sunny day!";
                 break;
             case "RAIN":
                 latitude += 5;
-                message += ": It's raining. Better watch out for lightning.";
+                message += ": Oh no rainy day!";
                 break;
             case "FOG":
                 latitude += 1;
-                message += ": Can't see much through this fog.";
+                message += ": Oh no foggy day!";
                 break;
             case "SNOW":
                 height -= 7;
-                message += ": It's snowing. We're gonna need some serious insulation.";
+                message += ": Oh no snowy day!";
                 break;
             default:
                 break;

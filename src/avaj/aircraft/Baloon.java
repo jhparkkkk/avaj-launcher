@@ -23,23 +23,24 @@ public class Baloon extends Aircraft {
                 break;
             case "RAIN":
                 height -= 5;
-                message += ": It's raining. Better watch out for lightning.";
+                message += ": Let's hope this rain stops soon.";
                 break;
             case "FOG":
                 height -= 3;
-                message += ": Can't see much through this fog.";
+                message += ": Let's be careful in this fog.";
                 break;
             case "SNOW":
                 height -= 15;
-                message += ": It's snowing. We're gonna need some serious insulation.";
+                message += ": Let's watch out for ice on the balloon.";
                 break;
             default:
                 break;
         }
 
         if (height <= 0) {
-            System.out.println(this.toString() + ": Landing.");
             this.weatherTower.unregister(this);
+            message += "\n" + this.toString() +": Landing.";
+
         }
         if (height > 100) {
               height = 100;

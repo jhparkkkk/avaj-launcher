@@ -8,9 +8,7 @@ import  avaj.aircraft.Baloon;
 public final class AircraftFactory {
     private static final AircraftFactory INSTANCE = new AircraftFactory();
 
-    private AircraftFactory() {
-        System.out.println("AircraftFactory created.");
-    }
+    private AircraftFactory() {}
 
     public static AircraftFactory getFactory() {
         return INSTANCE;
