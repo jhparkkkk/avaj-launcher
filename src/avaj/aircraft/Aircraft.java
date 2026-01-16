@@ -10,9 +10,14 @@ public class Aircraft extends Flyable {
         this.id = p_id;
         this.name = p_name;
         this.coordinates = p_coordinates;
+        
     }
 
     public void updateConditions() {
         // Default implementation (can be overridden by subclasses)
+    }
+
+    public String getName() {
+        return this.name;
     }
 }

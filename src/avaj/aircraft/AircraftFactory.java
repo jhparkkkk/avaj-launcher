@@ -16,7 +16,7 @@ public final class AircraftFactory {
         return INSTANCE;
     }
 
-    public Flyable newAircraft(String p_type, String p_name, avaj.coordinates.Coordinates p_coordinates, long p_id) {
+    public static Flyable newAircraft(String p_type, String p_name, avaj.coordinates.Coordinates p_coordinates, long p_id) {
         Flyable flyable = null;
 
         switch (p_type) {

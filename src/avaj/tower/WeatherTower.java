@@ -7,5 +7,13 @@ public class WeatherTower extends Tower {
         String weather = WeatherProvider.getProvider().getCurrentWeather(coordinates);
         return weather;
     }
+
+    public WeatherTower() {
+        System.out.println("WeatherTower created.");
+    }
+
+    public void changeWeather() {
+        this.conditionsChanged();
+    }
 }
 
