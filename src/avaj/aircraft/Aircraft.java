@@ -1,7 +1,7 @@
 package avaj.aircraft;
 import avaj.coordinates.Coordinates;
 
-public abstract class Aircraft {
+public class Aircraft extends Flyable {
     protected long id;
     protected String name;
     protected Coordinates coordinates;
@@ -10,5 +10,9 @@ public abstract class Aircraft {
         this.id = p_id;
         this.name = p_name;
         this.coordinates = p_coordinates;
+    }
+
+    public void updateConditions() {
+        // Default implementation (can be overridden by subclasses)
     }
 }

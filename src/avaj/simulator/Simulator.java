@@ -1,6 +1,5 @@
 package avaj.simulator;
 
-import avaj.aircraft.*;
 import avaj.coordinates.*;
 import avaj.weather.WeatherProvider;
 public class Simulator {
