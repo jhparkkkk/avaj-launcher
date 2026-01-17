@@ -38,8 +38,8 @@ public class JetPlane extends Aircraft {
         }
 
         if (height <= 0) {
-            System.out.println(this.toString() + ": Landing.");
             this.weatherTower.unregister(this);
+            message += "\n" + this.toString() +": Landing.";
         }
         if (height > 100) {
               height = 100;

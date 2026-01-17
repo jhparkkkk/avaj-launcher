@@ -18,9 +18,9 @@ public class Simulator {
     static String outputFilename = "simulation.txt";
 
     public static void main(String[] args) {
-    PrintStream originalOut = System.out;
-    
-    try {
+        PrintStream originalOut = System.out;
+        
+        try {
         if (args.length != 1) {
             throw new InvalidScenarioException("Usage: java avaj.simulator.Simulator <scenario_file>");
         }

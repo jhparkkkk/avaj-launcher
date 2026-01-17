@@ -23,8 +23,8 @@ Simulation 2:
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no sunny day!
-Helicopter#H1(4): Landing.
 Helicopter#H1(4): This is snowy.
+Helicopter#H1(4): Landing.
 Helicopter#H3(6): This is foggy.
 Baloon#B3(7): Let's watch out for ice on the balloon.
 JetPlane#J2(8): Oh no snowy day!
@@ -54,8 +54,8 @@ Simulation 5:
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no snowy day!
-Helicopter#H2(5): Landing.
 Helicopter#H2(5): This is snowy.
+Helicopter#H2(5): Landing.
 Baloon#B3(7): Let's watch out for ice on the balloon.
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
@@ -70,8 +70,8 @@ JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
 Simulation 7:
-Baloon#B1(1): Landing.
 Baloon#B1(1): Let's watch out for ice on the balloon.
+Baloon#B1(1): Landing.
 JetPlane#J1(3): Oh no snowy day!
 Helicopter#H3(6): This is snowy.
 Baloon#B3(7): Let's be careful in this fog.
@@ -82,8 +82,8 @@ Simulation 8:
 Baloon#B2(2): Let's watch out for ice on the balloon.
 JetPlane#J1(3): Oh no sunny day!
 Helicopter#H3(6): This is snowy.
-Baloon#B3(7): Landing.
 Baloon#B3(7): Let's watch out for ice on the balloon.
+Baloon#B3(7): Landing.
 Helicopter#H4(9): This is hot.
 
 Simulation 9:
@@ -110,8 +110,8 @@ Helicopter#H4(9): This is hot.
 Simulation 12:
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no sunny day!
-Helicopter#H3(6): Landing.
 Helicopter#H3(6): This is snowy.
+Helicopter#H3(6): Landing.
 Helicopter#H4(9): This is hot.
 
 Simulation 13:
@@ -121,8 +121,8 @@ JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
 Simulation 14:
-Baloon#B2(2): Landing.
 Baloon#B2(2): Let's watch out for ice on the balloon.
+Baloon#B2(2): Landing.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
