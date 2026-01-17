@@ -11,6 +11,9 @@ src/avaj/exceptions/AvajException.java
 src/avaj/exceptions/InvalidCoordinatesException.java
 src/avaj/exceptions/InvalidScenarioException.java
 src/avaj/exceptions/UnknownAircraftTypeException.java
+src/avaj/simulator/ScenarioParser.java
+src/avaj/simulator/SimulationConfig.java
+src/avaj/simulator/SimulationRunner.java
 src/avaj/simulator/Simulator.java
 src/avaj/tower/Tower.java
 src/avaj/tower/WeatherTower.java

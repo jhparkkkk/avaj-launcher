@@ -39,7 +39,7 @@ public class Helicopter extends Aircraft {
 
         if (height <= 0) {
             this.weatherTower.unregister(this);
-            message += "\n" + this.toString() +": Landing.";
+            message += "\n" + this.toString() +" landing.";
         }
         if (height > 100) {
               height = 100;

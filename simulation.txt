@@ -8,7 +8,7 @@ Tower says: Baloon#B3(7) registered to weather tower.
 Tower says: JetPlane#J2(8) registered to weather tower.
 Tower says: Helicopter#H4(9) registered to weather tower.
 
-Simulation 1:
+Simulation [1]
 Baloon#B1(1): Let's hope this rain stops soon.
 Baloon#B2(2): Let's watch out for ice on the balloon.
 JetPlane#J1(3): Oh no snowy day!
@@ -19,18 +19,18 @@ Baloon#B3(7): Let's be careful in this fog.
 JetPlane#J2(8): Oh no foggy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 2:
+Simulation [2]
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no sunny day!
 Helicopter#H1(4): This is snowy.
-Helicopter#H1(4): Landing.
+Helicopter#H1(4) landing.
 Helicopter#H3(6): This is foggy.
 Baloon#B3(7): Let's watch out for ice on the balloon.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 3:
+Simulation [3]
 Baloon#B1(1): Let's be careful in this fog.
 Baloon#B2(2): Let's be careful in this fog.
 JetPlane#J1(3): Oh no snowy day!
@@ -40,7 +40,7 @@ Baloon#B3(7): Let's enjoy the good weather and take some pics.
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 4:
+Simulation [4]
 Baloon#B1(1): Let's watch out for ice on the balloon.
 Baloon#B2(2): Let's watch out for ice on the balloon.
 JetPlane#J1(3): Oh no sunny day!
@@ -50,17 +50,17 @@ Baloon#B3(7): Let's be careful in this fog.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 5:
+Simulation [5]
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no snowy day!
 Helicopter#H2(5): This is snowy.
-Helicopter#H2(5): Landing.
+Helicopter#H2(5) landing.
 Baloon#B3(7): Let's watch out for ice on the balloon.
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 6:
+Simulation [6]
 Baloon#B1(1): Let's be careful in this fog.
 Baloon#B2(2): Let's be careful in this fog.
 JetPlane#J1(3): Oh no sunny day!
@@ -69,114 +69,114 @@ Baloon#B3(7): Let's enjoy the good weather and take some pics.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 7:
+Simulation [7]
 Baloon#B1(1): Let's watch out for ice on the balloon.
-Baloon#B1(1): Landing.
+Baloon#B1(1) landing.
 JetPlane#J1(3): Oh no snowy day!
 Helicopter#H3(6): This is snowy.
 Baloon#B3(7): Let's be careful in this fog.
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 8:
+Simulation [8]
 Baloon#B2(2): Let's watch out for ice on the balloon.
 JetPlane#J1(3): Oh no sunny day!
 Helicopter#H3(6): This is snowy.
 Baloon#B3(7): Let's watch out for ice on the balloon.
-Baloon#B3(7): Landing.
+Baloon#B3(7) landing.
 Helicopter#H4(9): This is hot.
 
-Simulation 9:
+Simulation [9]
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no snowy day!
 Helicopter#H3(6): This is snowy.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 10:
+Simulation [10]
 Baloon#B2(2): Let's be careful in this fog.
 JetPlane#J1(3): Oh no sunny day!
 Helicopter#H3(6): This is snowy.
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 11:
+Simulation [11]
 Baloon#B2(2): Let's watch out for ice on the balloon.
 JetPlane#J1(3): Oh no snowy day!
 Helicopter#H3(6): This is snowy.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 12:
+Simulation [12]
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Oh no sunny day!
 Helicopter#H3(6): This is snowy.
-Helicopter#H3(6): Landing.
+Helicopter#H3(6) landing.
 Helicopter#H4(9): This is hot.
 
-Simulation 13:
+Simulation [13]
 Baloon#B2(2): Let's be careful in this fog.
 JetPlane#J1(3): Oh no snowy day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 14:
+Simulation [14]
 Baloon#B2(2): Let's watch out for ice on the balloon.
-Baloon#B2(2): Landing.
+Baloon#B2(2) landing.
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 15:
+Simulation [15]
 JetPlane#J1(3): Oh no sunny day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 16:
+Simulation [16]
 JetPlane#J1(3): Oh no snowy day!
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 17:
+Simulation [17]
 JetPlane#J1(3): Oh no sunny day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 18:
+Simulation [18]
 JetPlane#J1(3): Oh no snowy day!
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 19:
+Simulation [19]
 JetPlane#J1(3): Oh no sunny day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 20:
+Simulation [20]
 JetPlane#J1(3): Oh no snowy day!
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 21:
+Simulation [21]
 JetPlane#J1(3): Oh no sunny day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 22:
+Simulation [22]
 JetPlane#J1(3): Oh no snowy day!
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 23:
+Simulation [23]
 JetPlane#J1(3): Oh no sunny day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is hot.
 
-Simulation 24:
+Simulation [24]
 JetPlane#J1(3): Oh no snowy day!
 JetPlane#J2(8): Oh no snowy day!
 Helicopter#H4(9): This is hot.
 
-Simulation 25:
+Simulation [25]
 JetPlane#J1(3): Oh no sunny day!
 JetPlane#J2(8): Oh no sunny day!
 Helicopter#H4(9): This is foggy.
