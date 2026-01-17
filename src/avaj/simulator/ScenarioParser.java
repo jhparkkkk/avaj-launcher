@@ -83,7 +83,7 @@ public class ScenarioParser {
             validateCoordinates(longitude, latitude, height, lineNumber);
 
             Coordinates coordinates = CoordinatesFactory.createCoordinates(longitude, latitude, height);
-            Flyable aircraft = AircraftFactory.newAircraft(type, name, coordinates, lineNumber);
+            Flyable aircraft = AircraftFactory.newAircraft(type, name, coordinates);
 
             return aircraft;
      
