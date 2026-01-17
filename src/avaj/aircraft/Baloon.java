@@ -38,9 +38,9 @@ public class Baloon extends Aircraft {
         }
 
         if (height <= 0) {
+            System.out.println(message);
             this.weatherTower.unregister(this);
-            message += "\n" + this.toString() +" landing.";
-
+            return;
         }
         if (height > 100) {
               height = 100;

@@ -11,13 +11,14 @@ public class Tower {
         if (!observers.contains(p_flyable)) {
             observers.add(p_flyable);
             System.out.println("Tower says: " + p_flyable + " registered to weather tower.");
-            p_flyable.registerTower((WeatherTower) this);
+            //p_flyable.registerTower((WeatherTower) this);
         }
 
     }
 
     public void unregister(Flyable p_flyable) {
         observers.remove(p_flyable);
+        System.out.println(p_flyable + " landing.");
     }
 
     protected void conditionsChanged() {
